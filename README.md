@@ -57,3 +57,6 @@ Additional usage notes:
 -	All variables, functions and commands (Q , p) are case sensitive
 -	Please take caution when copy and pasting expressions from other sources as character codes for operators, etc. may differ
 
+## License
+[GPLv3](https://choosealicense.com/licenses/gpl-3.0/)
+

@@ -1,13 +1,12 @@
 # expression-evaluator
-An expression evaluator based on the shunting yard algorithm which can parse and evaluate mathematical expressions including various functions, operators and variables.
+The program uses an algorithm based on the shunting yard algorithm to correctly parse and evaluate mathematical expressions including various functions, operators and variables. A struct based stack implementation is used to execute the algorithm.
 
 ## Installation
 
-Run following 
+Inside src directory, run:
 
 ```bash
 make
-./expression_evaluator
 ```
 
 ## Usage
